@@ -5,3 +5,8 @@ print("===================")
 
 for x in range (20):
    print("bye")
+
+print("==========================")
+
+for x in range (10):
+   print("SCM ")
