@@ -10,3 +10,8 @@ print("==========================")
 
 for x in range (10):
    print("SCM ")
+
+print("==========================")
+
+for x in range (10):
+   print("new ")
